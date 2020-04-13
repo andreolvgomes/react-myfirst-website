@@ -8,8 +8,8 @@ export default class About extends React.Component {
             <div>
                 <Image src="assets/dog-people.jpg" className="header-image" />
                 <Container>
-                <Col xs={12} sm={8} smOffset={2}>
-            <Image src="assets/person-1.jpg" className="about-profile-pic" rounded />
+                    <Col xs={12} sm={8} smOffset={2}>
+                        <Image src="assets/person-1.jpg" className="about-profile-pic" rounded />
                         <h3>Frank The Tank</h3>
                         <p>That's a crooked tree. We'll send him to Washington. These little son of a guns hide in your brush and you just have to push them out. These trees are so much fun. I get started on them and I have a hard time stopping. How to paint. That's easy. What to paint. That's much harder. Be brave. The man who does the best job is the one who is happy at his job.</p>
                         <p>Anyone can paint. You can do anything here. So don't worry about it. Life is too short to be alone, too precious. Share it with a friend. Every highlight needs it's own personal shadow.</p>
